@@ -12,3 +12,6 @@ Test in Spyder:
 import tensorflow as tf
 
 Good luck!
+
+##To install OpenCV by Anaconda
+>> pip install opencv-python
